@@ -3,9 +3,9 @@
   position: sticky;
   top: 0px;
 }
-.impty {
+.empty {
   padding-top: 50px;
-}
+}햣
 .menu {
   display: flex;
   flex-wrap: wrap;
