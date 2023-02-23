@@ -1,0 +1,44 @@
+.album{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 20px;
+}
+.picture .lf {
+  border: 1px solid gray;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  border-radius: 10px;
+}
+.picture {
+  width: 215px;
+  height: 215px;
+  margin: 4px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  transition: transform .1s, background-color .6s;
+}
+.picture:nth-child(1) .lf {
+  background-image: url(pic/c1.jpeg);
+}
+.picture:nth-child(2) .lf {
+  background-image: url(pic/c2.jpeg);
+}
+.picture:nth-child(3) .lf {
+  background-image: url(pic/c3.jpeg);
+}
+.picture:nth-child(4) .lf {
+  background-image: url(pic/c4.jpeg);
+}
+.picture:nth-child(5) .lf {
+  background-image: url(pic/c5.jpeg);
+}
+.picture:nth-child(6) .lf {
+  background-image: url(pic/c6.jpeg);
+}
+.picture:nth-child(7) .lf {
+  background-image: url(pic/c7.jpeg);
+}

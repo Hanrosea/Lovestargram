@@ -1,0 +1,159 @@
+.album{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 20px;
+  padding-top: 10px;
+}
+.picture .pic {
+  border: 1px solid gray;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  border-radius: 10px;
+}
+.picture {
+  width: 215px;
+  height: 215px;
+  margin: 4px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  transition: transform .1s, background-color .6s;
+}
+.picture:nth-child(1) .pic {
+  background-image: url(pic/p1.jpeg);
+}
+.picture:nth-child(2) .pic {
+  background-image: url(pic/p2.jpeg);
+}
+.picture:nth-child(3) .pic {
+  background-image: url(pic/p3.jpeg);
+}
+.picture:nth-child(4) .pic {
+  background-image: url(pic/p4.jpeg);
+}
+.picture:nth-child(5) .pic {
+  background-image: url(pic/p5.jpeg);
+}
+.picture:nth-child(6) .pic {
+  background-image: url(pic/p6.jpeg);
+}
+.picture:nth-child(7) .pic {
+  background-image: url(pic/p7.jpeg);
+}
+.picture:nth-child(8) .pic {
+  background-image: url(pic/p8.jpeg);
+}
+.picture:nth-child(9) .pic {
+  background-image: url(pic/p9.jpeg);
+}
+.picture:nth-child(10) .pic {
+  background-image: url(pic/p10.jpeg);
+}
+.picture:nth-child(11) .pic {
+  background-image: url(pic/p11.jpeg);
+}
+.picture:nth-child(12) .pic {
+  background-image: url(pic/p12.jpeg);
+}
+.picture:nth-child(13) .pic {
+  background-image: url(pic/p13.jpeg);
+}
+.picture:nth-child(14) .pic {
+  background-image: url(pic/p14.jpeg);
+}
+.picture:nth-child(15) .pic {
+  background-image: url(pic/p15.jpeg);
+}
+.picture:nth-child(16) .pic {
+  background-image: url(pic/p16.jpeg);
+}
+.picture:nth-child(17) .pic {
+  background-image: url(pic/p17.jpeg);
+}
+.picture:nth-child(18) .pic {
+  background-image: url(pic/p18.jpeg);
+}
+.picture:nth-child(19) .pic {
+  background-image: url(pic/p19.jpeg);
+}
+.picture:nth-child(20) .pic {
+  background-image: url(pic/p20.jpeg);
+}
+.picture:nth-child(21) .pic {
+  background-image: url(pic/p21.jpeg);
+}
+.picture:nth-child(22) .pic {
+  background-image: url(pic/p22.jpeg);
+}
+.picture:nth-child(23) .pic {
+  background-image: url(pic/p23.jpeg);
+}
+.picture:nth-child(24) .pic {
+  background-image: url(pic/p24.jpeg);
+}
+.picture:nth-child(25) .pic {
+  background-image: url(pic/p25.jpeg);
+}
+.picture:nth-child(26) .pic {
+  background-image: url(pic/p26.jpeg);
+}
+.picture:nth-child(27) .pic {
+  background-image: url(pic/p27.jpeg);
+}
+.picture:nth-child(28) .pic {
+  background-image: url(pic/p28.jpeg);
+}
+.picture:nth-child(29) .pic {
+  background-image: url(pic/p29.jpeg);
+}
+.picture:nth-child(30) .pic {
+  background-image: url(pic/p30.jpeg);
+}
+.picture:nth-child(31) .pic {
+  background-image: url(pic/p31.jpeg);
+}
+.picture:nth-child(32) .pic {
+  background-image: url(pic/p32.jpeg);
+}
+.picture:nth-child(33) .pic {
+  background-image: url(pic/p33.jpeg);
+}
+.picture:nth-child(34) .pic {
+  background-image: url(pic/p34.jpeg);
+}
+.picture:nth-child(35) .pic {
+  background-image: url(pic/p35.jpeg);
+}
+.picture:nth-child(36) .pic {
+  background-image: url(pic/p36.jpeg);
+}
+.picture:nth-child(37) .pic {
+  background-image: url(pic/p37.jpeg);
+}
+.picture:nth-child(38) .pic {
+  background-image: url(pic/p38.jpeg);
+}
+.picture:nth-child(39) .pic {
+  background-image: url(pic/p39.jpeg);
+}
+.picture:nth-child(40) .pic {
+  background-image: url(pic/p40.jpeg);
+}
+.picture:nth-child(41) .pic {
+  background-image: url(pic/p41.jpeg);
+}
+.picture:nth-child(42) .pic {
+  background-image: url(pic/p42.jpeg);
+}
+.picture:nth-child(43) .pic {
+  background-image: url(pic/p43.jpeg);
+}
+.picture:nth-child(44) .pic {
+  background-image: url(pic/p44.jpeg);
+}
+.picture:nth-child(45) .pic {
+  background-image: url(pic/p45.jpeg);
+}

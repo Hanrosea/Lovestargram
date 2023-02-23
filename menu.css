@@ -1,0 +1,24 @@
+.fix {
+  background-color: black;
+  position: sticky;
+  top: 0px;
+}
+.impty {
+  padding-top: 50px;
+}
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  border-top: 1px solid gray;
+  gap: 150px;
+}
+.bu {
+  display: flex;
+  height: 10px;
+  gap: 10px;
+}
