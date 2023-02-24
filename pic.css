@@ -20,7 +20,6 @@
   margin: 4px;
   border-radius: 10px;
   box-sizing: border-box;
-  transition: transform .1s, background-color .6s;
 }
 .picture:nth-child(1) .pic {
   background-image: url(pic/p1.jpeg);

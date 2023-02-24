@@ -8,10 +8,11 @@ body {
   padding-top: 10px;
   background-color: black;
   color: white;
+  position: relative; z-index: 2;;
 }
 div{
   display: block;
-}
+}x
 .lovelogo {
   font-family: 'KCCChassam';
   text-align: center;
@@ -42,4 +43,10 @@ div{
 .explain {
   padding-left: 25px;
   padding-top: 10px;
+}
+.picture :active{
+  position:relative;
+  width: 440px;
+  height: 440px;
+  transition: 1s;
 }

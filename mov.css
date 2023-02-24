@@ -1,0 +1,24 @@
+.album{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 20px;
+  padding-top: 10px;
+}
+.picture .mv {
+  border: 1px solid gray;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  border-radius: 10px;
+}
+.picture {
+  width: 215px;
+  height: 215px;
+  margin: 4px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  transition: transform .1s, background-color .6s;
+}
