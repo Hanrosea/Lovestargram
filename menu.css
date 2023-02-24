@@ -20,5 +20,11 @@
 .bu {
   display: flex;
   height: 15px;
-  gap: 10px;g
+  gap: 10px;
+}
+.picture :active{
+  position:relative;
+  width: 440px;
+  height: 440px;
+  transition: 1s;
 }
