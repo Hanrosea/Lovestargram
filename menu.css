@@ -16,10 +16,9 @@
   padding-bottom: 30px;
   border-top: 1px solid gray;
   gap: 150px;
-  pointer-events: none;
 }
 .bu {
   display: flex;
   height: 15px;
-  gap: 10px;
+  gap: 10px;g
 }
